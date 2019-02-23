@@ -5,6 +5,6 @@ object VarDemo02 {
     var age = 10
     age = 30
     val num2 = 30
-//    num2 = 40
+//    num2 = 40 报错
   }
 }
